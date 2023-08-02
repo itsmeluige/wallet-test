@@ -6,14 +6,6 @@
       "cvv": "317",
       "name": "John Doe",
       "validAt": "04/32"
-    },
-    {
-      "id": "d846d309-306f-4214-b19e-8d09145ca9bd",
-      "name": "Luiz Orso Teste",
-      "number": "4745 2525 7688 0685",
-      "validAt": "12/25",
-      "cvv": "194",
-      "type": "green"
     }
   ]
 }
