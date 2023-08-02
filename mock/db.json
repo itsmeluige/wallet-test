@@ -1,0 +1,19 @@
+{
+  "cards": [
+    {
+      "id": "4ec42ba9-50af-40d2-af90-8312edbd9ca2",
+      "number": "3529 5435 3355 8727",
+      "cvv": "317",
+      "name": "John Doe",
+      "validAt": "04/32"
+    },
+    {
+      "id": "d846d309-306f-4214-b19e-8d09145ca9bd",
+      "name": "Luiz Orso Teste",
+      "number": "4745 2525 7688 0685",
+      "validAt": "12/25",
+      "cvv": "194",
+      "type": "green"
+    }
+  ]
+}
