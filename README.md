@@ -131,3 +131,18 @@ e depois:
 ## Observações
 
 O módulo Scanner foi testado apenas em devices reais, no emulador pode implicar em não funcionamento devido ao componente da câmera 
+
+
+## Troubleshotting
+
+error Failed to build iOS project. We ran "xcodebuild" command but it exited with error code 65
+
+abra o projeto (.xcworkspace) pelo XCode e tente realizar o build
+
+
+se der algo parecido com o pod React-Codegen como na imagem,
+  <img  src="./assets/screenshots/troubleshotting_ios_1.jpg" style="width: 180px; padding-top: 30px" alt="Wallet Test-tshotting1" />
+
+
+altere o parametro iOS Deployment Target para 12.4 em PODS > React-Codegen > Build Settings > iOS Deployment Target, como na imagem abaixo
+  <img  src="./assets/screenshots/troubleshotting_ios_2.jpg" style="width: 180px; padding-top: 30px" alt="Wallet Test-tshotting2" />
