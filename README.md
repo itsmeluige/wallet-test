@@ -141,8 +141,10 @@ abra o projeto (.xcworkspace) pelo XCode e tente realizar o build
 
 
 se der algo parecido com o pod React-Codegen como na imagem,
-  <img  src="./assets/screenshots/troubleshotting/troubleshotting_ios_1.jpg" style="width: 180px; padding-top: 30px" alt="Wallet Test-tshotting1" />
+
+<img  src="./assets/screenshots/troubleshotting/troubleshotting_ios_1.jpg" width="90%" style="padding-top: 30px" alt="Wallet Test-tshotting1" />
 
 
 altere o parametro iOS Deployment Target para 12.4 em PODS > React-Codegen > Build Settings > iOS Deployment Target, como na imagem abaixo
-  <img  src="./assets/screenshots/troubleshotting/troubleshotting_ios_2.jpg" style="width: 180px; padding-top: 30px" alt="Wallet Test-tshotting2" />
+
+<img  src="./assets/screenshots/troubleshotting/troubleshotting_ios_2.jpg" width="90%" style="padding-top: 30px" alt="Wallet Test-tshotting2" />
