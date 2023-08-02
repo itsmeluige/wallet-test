@@ -130,4 +130,4 @@ e depois:
 
 ## Observações
 
-O módulo Scanner foi testado apenas em devices reais, no emulador pode implicar e não funcionamento devido ao componente da câmera 
+O módulo Scanner foi testado apenas em devices reais, no emulador pode implicar em não funcionamento devido ao componente da câmera 
