@@ -127,3 +127,7 @@ e depois:
 **Back-end:** Node, JSON Sever
 
 **Testes:** Jest
+
+## Observações
+
+O módulo Scanner foi testado apenas em devices reais, no emulador pode implicar e não funcionamento devido ao componente da câmera 
